@@ -67,7 +67,7 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting. 
 
-View my notebook with detailed steps here: [2_Skill_Demand](\2_Skill_Demand.ipynb)
+View my notebook with detailed steps here: [2_Skill_Demand](https://github.com/Amit-K-M/python_data_Science_project/blob/main/Projects/2_Skill_Demand.ipynb)
 
 ### Visualize Data
 
@@ -83,7 +83,7 @@ plt.show()
 ```
 ### Results
 
-![Likelihood of Skills Requested in the Indian Job Postings](Images\Likelihood_of_skills_IND.png)
+![Likelihood of Skills Requested in the Indian Job Postings](https://github.com/Amit-K-M/python_data_Science_project/blob/main/Projects/Images/Likelihood_of_skills_IND.png)
 
 
 *Bar graph visualizing the top 3 data roles and their top 5 skills associated with each.*
@@ -101,7 +101,7 @@ plt.show()
 
 To find how skills are trending in 2023 for Data Analysts, I filtered data analyst positions and grouped the skills by the month of the job postings. This got me the top 5 skills of data analysts by month, showing how popular skills were throughout 2023.
 
-View my notebook with detailed steps here: [3_Skills_Trend](3_Skill_Trend.ipynb)
+View my notebook with detailed steps here: [3_Skills_Trend](https://github.com/Amit-K-M/python_data_Science_project/blob/main/Projects/3_Skill_Trend.ipynb)
 
 ### Visualize Data
 
@@ -120,7 +120,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in India](Images\Trending_skills_ind.png)  
+![Trending Top Skills for Data Analysts in India](https://github.com/Amit-K-M/python_data_Science_project/blob/main/Projects/Images/Trending_skills_ind.png)  
 *Bar graph visualizing the trending top skills for data analysts in India in 2023.*
 
 ### Insights:
@@ -132,7 +132,7 @@ plt.show()
 
 To identify the highest-paying roles and skills, I only got jobs in India and looked at their median salary. But first I looked at the salary distributions of common data jobs like Data Scientist, Data Engineer, and Data Analyst, to get an idea of which jobs are paid the most. 
 
-View my notebook with detailed steps here: [4_Salary_Analysis](4_Salary_Analysis.ipynb).
+View my notebook with detailed steps here: [4_Salary_Analysis](https://github.com/Amit-K-M/python_data_Science_project/blob/main/Projects/4_Salary_Analysis.ipynb).
 
 #### Visualize Data 
 
@@ -147,7 +147,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in India](Images\salary_distribution_IND.png)  
+![Salary Distributions of Data Jobs in India](https://github.com/Amit-K-M/python_data_Science_project/blob/main/Projects/Images/salary_distribution_IND.png)  
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
@@ -185,7 +185,7 @@ plt.show()
 #### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the India:
 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in India](Images\Median_salary_by_skills.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in India](https://github.com/Amit-K-M/python_data_Science_project/blob/main/Projects/Images/Median_salary_by_skills.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
 #### Insights:
@@ -220,7 +220,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in  India with Coloring by Technology](Images\Most_optimal_skills_da_ind.png)  
+![Most Optimal Skills for Data Analysts in  India with Coloring by Technology](https://github.com/Amit-K-M/python_data_Science_project/blob/main/Projects/Images/Most_optimal_skills_da_ind.png)  
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in India with color labels for technology.*
 
 #### Insights:
