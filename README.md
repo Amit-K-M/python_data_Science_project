@@ -186,7 +186,7 @@ plt.show()
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the India:
 
 ![The Highest Paid & Most In-Demand Skills for Data Analysts in India](https://github.com/Amit-K-M/python_data_Science_project/blob/main/Projects/Images/Median_salary_by_skills.png)
-*Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
+*Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in India.*
 
 #### Insights:
 
