@@ -4,6 +4,7 @@ Welcome to my analysis of the data job market, focusing on data analyst roles. T
 
 The data sourced from [Luke Barousse's Python Course](https://lukebarousse.com/python) which provides a foundation for my analysis, containing detailed information on job titles, salaries, locations, and essential skills. Through a series of Python scripts, I explore key questions such as the most demanded skills, salary trends, and the intersection of demand and salary in data analytics.
 
+This is the Pyhton version of the project. [If you're interested in the ***SQL version***, you can find it here](https://github.com/Amit-K-M/SQL_PROJECT_DATA_JOBS)
 # The Questions
 
 Below are the questions I want to answer in my project:
